@@ -4,6 +4,10 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
 
+
+## Live Application
+👉 https://diabetes-risk-prediction-y6gvlxnbzanjgev7kagpgm.streamlit.app/
+
 An end-to-end machine learning project: exploratory data analysis and model training on the Pima Indians Diabetes dataset, followed by a Streamlit app that uses the trained model to estimate diabetes risk from patient measurements.
 
 ## Table of contents
@@ -89,7 +93,3 @@ pip install -r requirements.txt
 
 This is an educational project, not a diagnostic tool. Predictions are estimates based on a small, public dataset and should not be used for real medical decisions — please consult a healthcare professional for medical advice. Feedback and suggestions are welcome via issues or pull requests.
 
-
-
-## Live Application
-👉 https://diabetes-risk-prediction-y6gvlxnbzanjgev7kagpgm.streamlit.app/
