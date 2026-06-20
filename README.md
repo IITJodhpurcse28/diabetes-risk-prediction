@@ -88,3 +88,8 @@ pip install -r requirements.txt
 ## Notes
 
 This is an educational project, not a diagnostic tool. Predictions are estimates based on a small, public dataset and should not be used for real medical decisions — please consult a healthcare professional for medical advice. Feedback and suggestions are welcome via issues or pull requests.
+
+
+
+## Live Application
+👉 https://diabetes-risk-prediction-y6gvlxnbzanjgev7kagpgm.streamlit.app/
